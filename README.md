@@ -7,4 +7,3 @@ All bugs should open issues on zxystd's master branch.
 # Caution
 1.This kext can't load if your OpenCore's SecureBootModel is Disabled. You should set it to Default.  
 ![image](https://github.com/win1010525/Airportitlwm-kext/blob/master/images/SecureBootModel.png)   
-2.All bugs should open issues on zxystd's master branch.  
